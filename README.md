@@ -1,5 +1,7 @@
 # Isomorphism
 
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
 Prove that if two graphs $A$ and $B$ do not have the same number of nodes, they
 cannot be isomorphic. I have started with the formal definition of isomorphism
 below. Add your answer to this markdown file. [This
